@@ -5,8 +5,7 @@ const skills = ["React", "Next.js", "TypeScript", "Node.js", "Tailwind CSS", "Gi
 export default function Home() {
   return (
     <div className="max-w-3xl mx-auto px-6 py-20 text-center">
-      <h1 className="text-5xl font-extrabold mb-4">
-        Hi, I'm <span className="text-blue-600">Pavithra</span>
+      <h1 className="text-5xl font-extrabold mb-4"> Hi I am  <span className="text-blue-600">Pavithra</span>
       </h1>
       <p className="text-gray-500 text-lg mb-8">
         Full Stack Developer building fast, accessible web experiences with React & Next.js.
